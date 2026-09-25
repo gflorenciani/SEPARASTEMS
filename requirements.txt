@@ -1,0 +1,5 @@
+streamlit
+numpy
+soundfile
+audio-separator
+onnxruntime
