@@ -3,3 +3,4 @@ numpy
 soundfile
 audio-separator
 onnxruntime
+audioread
